@@ -32,3 +32,13 @@ a:active {
     padding: 12px 18px;
     text-decoration: none;
 }
+
+.button:hover,
+.button:focus {
+    background-color: #86efac;
+    color: #0b1210;
+}
+
+.button:active {
+    background-color: #16a34a;
+}
