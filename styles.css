@@ -76,6 +76,12 @@ h1 {
     margin-bottom: 8px;
 }
 
+.service-card {
+    background-color: #0b1210;
+    border: 1px solid #1f3d32;
+    border-radius: 6px;
+    padding: 12px;
+}
 /* Links */
 a {
     color: #4ade80;
@@ -139,3 +145,4 @@ footer {
         box-sizing: border-box;
     }
 }
+
