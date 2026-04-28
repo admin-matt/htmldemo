@@ -5,3 +5,8 @@ body {
     line-height: 1.5;
     margin: 0;
 }
+header,
+main,
+footer {
+    padding: 24px;
+}
