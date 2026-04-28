@@ -48,6 +48,10 @@ h2 {
     line-height: 1.2;
 }
 
+h1 {
+    font-size: 40px;
+}
+
 a {
     color: #4ade80;
 }
