@@ -5,8 +5,22 @@ body {
     line-height: 1.5;
     margin: 0;
 }
+
 header,
 main,
 footer {
     padding: 24px;
+}
+
+a {
+    color: #4ade80;
+}
+
+a:hover,
+a:focus {
+    color: #86efac;
+}
+
+a:active {
+    color: #22c55e;
 }
