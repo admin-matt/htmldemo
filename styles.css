@@ -32,6 +32,7 @@ header {
 header p:not(.brand) {
     font-size: 18px;
     color: #d1d5db;
+    margin-bottom: 24px;
 }
 
 nav a {
