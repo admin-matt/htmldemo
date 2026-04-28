@@ -45,6 +45,10 @@ nav {
 }
 
 section {
+    background-color: #10241c;
+    border: 1px solid #1f3d32;
+    border-radius: 8px;
+    padding: 24px;
     margin-bottom: 48px;
 }
 
