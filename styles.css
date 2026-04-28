@@ -67,6 +67,7 @@ h1 {
     font-size: 40px;
 }
 
+/* Lists */
 .service-list {
     padding-left: 20px;
 }
@@ -113,4 +114,11 @@ a:active {
 footer {
     border-top: 1px solid #22c55e;
     color: #9ca3af;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 32px;
+    }
 }
