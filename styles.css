@@ -121,4 +121,8 @@ footer {
     h1 {
         font-size: 32px;
     }
+    nav a {
+    display: inline-block;
+    margin-bottom: 8px;
+    }   
 }
