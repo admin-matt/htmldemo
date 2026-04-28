@@ -12,6 +12,11 @@ footer {
     padding: 24px;
 }
 
+header {
+    background-color: #10241c;
+    border-bottom: 1px solid #22c55e;
+}
+
 section {
     margin-bottom: 48px;
 }
