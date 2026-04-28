@@ -29,6 +29,11 @@ header {
     font-weight: bold;
 }
 
+header p:not(.brand) {
+    font-size: 18px;
+    color: #d1d5db;
+}
+
 nav a {
     margin-right: 16px;
     text-decoration: none;
