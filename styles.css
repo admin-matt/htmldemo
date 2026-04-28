@@ -121,8 +121,21 @@ footer {
     h1 {
         font-size: 32px;
     }
+
     nav a {
-    display: inline-block;
-    margin-bottom: 8px;
-    }   
+        display: inline-block;
+        margin-bottom: 8px;
+    }
+
+    header,
+    main,
+    footer {
+        padding: 16px;
+    }
+
+    .button {
+        width: 100%;
+        text-align: center;
+        box-sizing: border-box;
+    }
 }
