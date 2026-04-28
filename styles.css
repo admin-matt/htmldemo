@@ -16,8 +16,7 @@ header > *,
 main,
 footer > * {
     max-width: 960px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
 }
 
 header {
