@@ -6,10 +6,10 @@ body {
     margin: 0;
 }
 
-header,
+header > *,
 main,
-footer {
-    padding: 24px;
+footer > * {
+    max-width: 960px;
 }
 
 header {
