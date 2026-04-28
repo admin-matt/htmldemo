@@ -62,11 +62,11 @@ h1 {
     font-size: 40px;
 }
 
-ul {
+.service-list {
     padding-left: 20px;
 }
 
-li {
+.service-list li {
     margin-bottom: 8px;
 }
 
