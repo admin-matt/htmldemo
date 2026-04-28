@@ -12,6 +12,12 @@ footer {
     padding: 24px;
 }
 
+h1,
+h2 {
+    color: #bbf7d0;
+    line-height: 1.2;
+}
+
 a {
     color: #4ade80;
 }
