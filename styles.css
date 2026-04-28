@@ -101,3 +101,8 @@ a:active {
 .button:active {
     background-color: #16a34a;
 }
+
+footer {
+    border-top: 1px solid #22c55e;
+    color: #9ca3af;
+}
