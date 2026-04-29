@@ -83,6 +83,10 @@ h1 {
     padding: 12px;
 }
 
+.service-card:hover {
+    border-color: #22c55e;
+}
+
 .service-card h3 {
     color: #4ade80;
     margin-top: 0;
