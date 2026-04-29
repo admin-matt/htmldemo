@@ -69,6 +69,7 @@ h1 {
 
 /* Lists */
 .service-list {
+    list-style: none;
     padding-left: 20px;
 }
 
