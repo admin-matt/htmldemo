@@ -83,6 +83,14 @@ h1 {
     padding: 12px;
 }
 
+.service-card h3 {
+    color: #4ade80;
+}
+
+.service-card p {
+    color: #d1d5db;
+}
+
 /* Links */
 a {
     color: #4ade80;
