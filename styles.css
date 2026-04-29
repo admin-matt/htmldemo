@@ -149,5 +149,9 @@ footer {
         text-align: center;
         box-sizing: border-box;
     }
+    
+    .service-list {
+    grid-template-columns: 1fr;
+    }
 }
 
