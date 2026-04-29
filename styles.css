@@ -70,7 +70,10 @@ h1 {
 /* Lists */
 .service-list {
     list-style: none;
-    padding-left: 0px;
+    padding-left: 0;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
 }
 
 .service-list li {
