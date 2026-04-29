@@ -86,6 +86,7 @@ h1 {
 
 .service-card:hover {
     border-color: #22c55e;
+    background-color: #0f1f19;
 }
 
 .service-card h3 {
