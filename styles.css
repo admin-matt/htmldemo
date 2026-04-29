@@ -81,6 +81,7 @@ h1 {
     border: 1px solid #1f3d32;
     border-radius: 6px;
     padding: 12px;
+    transition: border-color 0.2s ease, background-color 0.2s ease;
 }
 
 .service-card:hover {
