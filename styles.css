@@ -71,13 +71,13 @@ h1 {
     font-size: 40px;
 }
 
-/* Lists */
+/* Services */
 .service-list {
     list-style: none;
     padding-left: 0;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 12px;
+    gap: 16px;
 }
 
 .service-card {
