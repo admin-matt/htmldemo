@@ -102,6 +102,15 @@ h1 {
     color: #d1d5db;
 }
 
+/* Security */
+.security-list {
+    padding-left: 20px;
+}
+
+.security-list li {
+    margin-bottom: 8px;
+}
+
 /* Links */
 a {
     color: #4ade80;
@@ -165,7 +174,7 @@ footer {
         text-align: center;
     }
 
-    .service-list {
+    .services-list {
         grid-template-columns: 1fr;
     }
 }
