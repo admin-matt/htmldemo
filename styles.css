@@ -118,6 +118,10 @@ a {
 
 a:hover,
 a:focus {
+    color: #86efac;
+}
+
+a:focus {
     outline: 2px solid #22c55e;
     outline-offset: 3px;
 }
